@@ -1,5 +1,4 @@
 # 🎬 Individual End-to-End Machine Learning Project to Predict Movie Ratings  
-Candidate ID: MPZY3
 
 ## 📌 Project Overview
 This end-to-end machine learning project aims to **predict movie ratings** ⭐ using a combination of traditional machine learning models and deep learning techniques. The workflow includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and comparison.
